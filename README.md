@@ -53,4 +53,3 @@ Analyze student dorm reviews and rating sub-scores to understand what drives hou
 
 ---
 
-## Repo Structure (suggested)
